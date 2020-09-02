@@ -4,9 +4,9 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.04491e8a.js (247 KiB)"
   ],
   "version": "4.44.1",
-  "hash": "89677b7482333fb1d62c",
-  "time": 3846,
-  "builtAt": 1599081408250,
+  "hash": "b6a72d37262c0ea341e6",
+  "time": 2118,
+  "builtAt": 1599082693883,
   "publicPath": "/",
   "outputPath": "C:\\Coding\\GuestBell\\delete-me\\dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
     "__react_static_root__/src/pages/about.tsx": "templates/__react_static_root__/src/pages/about.tsx.ec092461.js",
     "__react_static_root__/src/pages/blog.tsx": "templates/__react_static_root__/src/pages/blog.tsx.95b1e7ae.js",
     "__react_static_root__/src/pages/index.tsx": "templates/__react_static_root__/src/pages/index.tsx.956fcb32.js",
-    "main": "main.0ce0e2d5.js",
+    "main": "main.78ac3cd7.js",
     "styles": [
       "styles.02fb1cab.css",
       "templates/styles.ddeb0f74.js"
@@ -24,8 +24,8 @@
   },
   "assets": [
     {
-      "name": "main.0ce0e2d5.js",
-      "size": 8323,
+      "name": "main.78ac3cd7.js",
+      "size": 7797,
       "chunks": [
         5
       ],
@@ -163,7 +163,7 @@
         "styles.02fb1cab.css",
         "templates/styles.ddeb0f74.js",
         "templates/vendors~main.04491e8a.js",
-        "main.0ce0e2d5.js"
+        "main.78ac3cd7.js"
       ],
       "children": {},
       "childAssets": {}
@@ -180,7 +180,7 @@
         "styles.02fb1cab.css",
         "templates/styles.ddeb0f74.js",
         "templates/vendors~main.04491e8a.js",
-        "main.0ce0e2d5.js"
+        "main.78ac3cd7.js"
       ],
       "children": {},
       "childAssets": {}
@@ -767,9 +767,9 @@
         "main"
       ],
       "files": [
-        "main.0ce0e2d5.js"
+        "main.78ac3cd7.js"
       ],
-      "hash": "000fb82d24e1f306d465",
+      "hash": "1e3c229861f22afa197b",
       "siblings": [
         6,
         7
@@ -854,7 +854,7 @@
             "ModuleConcatenation bailout: Cannot concat with C:/Coding/GuestBell/delete-me/node_modules/@reach/router/es/index.js (<- Module is referenced from these modules with unsupported syntax: C:/Coding/GuestBell/delete-me/node_modules/react-static-plugin-reach-router/browser.api.js (referenced with cjs require))",
             "ModuleConcatenation bailout: Cannot concat with ../lib/index.js (<- Module is not an ECMAScript module)",
             "ModuleConcatenation bailout: Cannot concat with C:/Coding/GuestBell/delete-me/node_modules/react/index.js (<- Module is not an ECMAScript module)",
-            "ModuleConcatenation bailout: Cannot concat with external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\" (<- Module is not an ECMAScript module)"
+            "ModuleConcatenation bailout: Cannot concat with external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\" (<- Module is not an ECMAScript module)"
           ],
           "depth": 3,
           "modules": [
@@ -1089,8 +1089,8 @@
         },
         {
           "id": 48,
-          "identifier": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
-          "name": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
+          "identifier": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
+          "name": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
           "index": 130,
           "index2": 126,
           "size": 42,
@@ -3152,9 +3152,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -3726,9 +3726,9 @@
           "chunks": [
             7
           ],
-          "issuer": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "issuerId": 112,
-          "issuerName": "../lib/bootstrapTemplates.js",
+          "issuer": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "issuerId": 56,
+          "issuerName": "../lib/bootstrapPlugins.js",
           "issuerPath": [
             {
               "id": 55,
@@ -3736,9 +3736,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             }
           ],
           "failed": false,
@@ -3851,9 +3851,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -4787,9 +4787,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -5338,9 +5338,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6179,9 +6179,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6250,9 +6250,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6326,9 +6326,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6392,9 +6392,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6463,9 +6463,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6529,9 +6529,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6595,9 +6595,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6671,9 +6671,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6752,9 +6752,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6828,9 +6828,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -6975,9 +6975,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7056,9 +7056,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7142,9 +7142,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7218,9 +7218,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -7294,9 +7294,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9042,9 +9042,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9104,9 +9104,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9166,9 +9166,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9228,9 +9228,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9285,9 +9285,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9347,9 +9347,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9409,9 +9409,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9471,9 +9471,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9533,9 +9533,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9600,9 +9600,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9672,9 +9672,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9744,9 +9744,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9821,9 +9821,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9893,9 +9893,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -9970,9 +9970,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10052,9 +10052,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10129,9 +10129,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10211,9 +10211,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10293,9 +10293,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10370,9 +10370,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10447,9 +10447,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10524,9 +10524,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10591,9 +10591,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10658,9 +10658,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10720,9 +10720,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -10785,9 +10785,9 @@
               "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
             },
             {
-              "id": 112,
-              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-              "name": "../lib/bootstrapTemplates.js"
+              "id": 56,
+              "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+              "name": "../lib/bootstrapPlugins.js"
             },
             {
               "id": 7,
@@ -14094,9 +14094,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -14668,9 +14668,9 @@
       "chunks": [
         7
       ],
-      "issuer": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-      "issuerId": 112,
-      "issuerName": "../lib/bootstrapTemplates.js",
+      "issuer": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+      "issuerId": 56,
+      "issuerName": "../lib/bootstrapPlugins.js",
       "issuerPath": [
         {
           "id": 55,
@@ -14678,9 +14678,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         }
       ],
       "failed": false,
@@ -14793,9 +14793,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -15729,9 +15729,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -16280,9 +16280,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -16678,7 +16678,7 @@
         "ModuleConcatenation bailout: Cannot concat with C:/Coding/GuestBell/delete-me/node_modules/@reach/router/es/index.js (<- Module is referenced from these modules with unsupported syntax: C:/Coding/GuestBell/delete-me/node_modules/react-static-plugin-reach-router/browser.api.js (referenced with cjs require))",
         "ModuleConcatenation bailout: Cannot concat with ../lib/index.js (<- Module is not an ECMAScript module)",
         "ModuleConcatenation bailout: Cannot concat with C:/Coding/GuestBell/delete-me/node_modules/react/index.js (<- Module is not an ECMAScript module)",
-        "ModuleConcatenation bailout: Cannot concat with external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\" (<- Module is not an ECMAScript module)"
+        "ModuleConcatenation bailout: Cannot concat with external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\" (<- Module is not an ECMAScript module)"
       ],
       "depth": 3,
       "modules": [
@@ -17424,9 +17424,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17495,9 +17495,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17571,9 +17571,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17637,9 +17637,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17708,9 +17708,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17774,9 +17774,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17840,9 +17840,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17916,9 +17916,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -17997,9 +17997,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18073,9 +18073,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18220,9 +18220,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18301,9 +18301,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18387,9 +18387,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18463,9 +18463,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -18539,9 +18539,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -19013,8 +19013,8 @@
     },
     {
       "id": 48,
-      "identifier": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
-      "name": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"guestAndroidUrl\\\":\\\"com.guestbell.guest\\\",\\\"dashboardUrl\\\":\\\"https://dashboard.guestbell.com\\\",\\\"guestWebUrl\\\":\\\"https://guest.guestbell.com\\\",\\\"demoHotelSlug\\\":\\\"demo-hotel\\\",\\\"version\\\":\\\"VERSION_TOKEN\\\",\\\"directChatLink\\\":\\\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\\\",\\\"apiUrl\\\":\\\"https://api.guestbell.com/\\\",\\\"apiUrlPlanMeta\\\":\\\"plan/meta\\\",\\\"apiUrlIntegrationMeta\\\":\\\"integration/meta\\\",\\\"docsUrl\\\":\\\"https://guestbell.github.io/docs/#/\\\",\\\"swEnabled\\\":true,\\\"googleTagsManagerId\\\":\\\"GTM-TW8R2HX\\\",\\\"googleTagsManagerAuth\\\":\\\"1IPiUmmWoI1j3KVAKzELcg\\\",\\\"googleTagsManagerPreview\\\":\\\"env-2\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:16:44 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
+      "identifier": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
+      "name": "external \"{\\\"marketingUrl\\\":\\\"https://guestbell.com\\\",\\\"buildOn\\\":\\\"Wed, 02 Sep 2020 21:38:11 GMT\\\",\\\"buildFor\\\":\\\"production\\\"}\"",
       "index": 130,
       "index2": 126,
       "size": 42,
@@ -20789,9 +20789,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20851,9 +20851,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20913,9 +20913,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -20975,9 +20975,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21032,9 +21032,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21094,9 +21094,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21156,9 +21156,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21218,9 +21218,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21280,9 +21280,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21347,9 +21347,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21419,9 +21419,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21491,9 +21491,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21568,9 +21568,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21640,9 +21640,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21717,9 +21717,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21799,9 +21799,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21876,9 +21876,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -21958,9 +21958,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22040,9 +22040,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22117,9 +22117,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22194,9 +22194,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22271,9 +22271,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22338,9 +22338,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22405,9 +22405,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22467,9 +22467,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,
@@ -22532,9 +22532,9 @@
           "name": "multi ../lib/bootstrapPlugins.js ../lib/bootstrapTemplates.js ../lib/bootstrapApp.js"
         },
         {
-          "id": 112,
-          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapTemplates.js",
-          "name": "../lib/bootstrapTemplates.js"
+          "id": 56,
+          "identifier": "C:\\Coding\\GuestBell\\delete-me\\node_modules\\babel-loader\\lib\\index.js??ref--4-oneOf-2-0!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-hot-loader\\webpack.js!C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static\\lib\\bootstrapPlugins.js",
+          "name": "../lib/bootstrapPlugins.js"
         },
         {
           "id": 7,

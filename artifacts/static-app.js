@@ -1,10 +1,10 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("{\"marketingUrl\":\"https://guestbell.com\",\"guestAndroidUrl\":\"com.guestbell.guest\",\"dashboardUrl\":\"https://dashboard.guestbell.com\",\"guestWebUrl\":\"https://guest.guestbell.com\",\"demoHotelSlug\":\"demo-hotel\",\"version\":\"VERSION_TOKEN\",\"directChatLink\":\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\",\"apiUrl\":\"https://api.guestbell.com/\",\"apiUrlPlanMeta\":\"plan/meta\",\"apiUrlIntegrationMeta\":\"integration/meta\",\"docsUrl\":\"https://guestbell.github.io/docs/#/\",\"swEnabled\":true,\"googleTagsManagerId\":\"GTM-TW8R2HX\",\"googleTagsManagerAuth\":\"1IPiUmmWoI1j3KVAKzELcg\",\"googleTagsManagerPreview\":\"env-2\",\"buildOn\":\"Wed, 02 Sep 2020 21:16:44 GMT\",\"buildFor\":\"production\"}"));
+		module.exports = factory(require("{\"marketingUrl\":\"https://guestbell.com\",\"buildOn\":\"Wed, 02 Sep 2020 21:38:11 GMT\",\"buildFor\":\"production\"}"));
 	else if(typeof define === 'function' && define.amd)
-		define(["{\"marketingUrl\":\"https://guestbell.com\",\"guestAndroidUrl\":\"com.guestbell.guest\",\"dashboardUrl\":\"https://dashboard.guestbell.com\",\"guestWebUrl\":\"https://guest.guestbell.com\",\"demoHotelSlug\":\"demo-hotel\",\"version\":\"VERSION_TOKEN\",\"directChatLink\":\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\",\"apiUrl\":\"https://api.guestbell.com/\",\"apiUrlPlanMeta\":\"plan/meta\",\"apiUrlIntegrationMeta\":\"integration/meta\",\"docsUrl\":\"https://guestbell.github.io/docs/#/\",\"swEnabled\":true,\"googleTagsManagerId\":\"GTM-TW8R2HX\",\"googleTagsManagerAuth\":\"1IPiUmmWoI1j3KVAKzELcg\",\"googleTagsManagerPreview\":\"env-2\",\"buildOn\":\"Wed, 02 Sep 2020 21:16:44 GMT\",\"buildFor\":\"production\"}"], factory);
+		define(["{\"marketingUrl\":\"https://guestbell.com\",\"buildOn\":\"Wed, 02 Sep 2020 21:38:11 GMT\",\"buildFor\":\"production\"}"], factory);
 	else {
-		var a = typeof exports === 'object' ? factory(require("{\"marketingUrl\":\"https://guestbell.com\",\"guestAndroidUrl\":\"com.guestbell.guest\",\"dashboardUrl\":\"https://dashboard.guestbell.com\",\"guestWebUrl\":\"https://guest.guestbell.com\",\"demoHotelSlug\":\"demo-hotel\",\"version\":\"VERSION_TOKEN\",\"directChatLink\":\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\",\"apiUrl\":\"https://api.guestbell.com/\",\"apiUrlPlanMeta\":\"plan/meta\",\"apiUrlIntegrationMeta\":\"integration/meta\",\"docsUrl\":\"https://guestbell.github.io/docs/#/\",\"swEnabled\":true,\"googleTagsManagerId\":\"GTM-TW8R2HX\",\"googleTagsManagerAuth\":\"1IPiUmmWoI1j3KVAKzELcg\",\"googleTagsManagerPreview\":\"env-2\",\"buildOn\":\"Wed, 02 Sep 2020 21:16:44 GMT\",\"buildFor\":\"production\"}")) : factory(root["{\"marketingUrl\":\"https://guestbell.com\",\"guestAndroidUrl\":\"com.guestbell.guest\",\"dashboardUrl\":\"https://dashboard.guestbell.com\",\"guestWebUrl\":\"https://guest.guestbell.com\",\"demoHotelSlug\":\"demo-hotel\",\"version\":\"VERSION_TOKEN\",\"directChatLink\":\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\",\"apiUrl\":\"https://api.guestbell.com/\",\"apiUrlPlanMeta\":\"plan/meta\",\"apiUrlIntegrationMeta\":\"integration/meta\",\"docsUrl\":\"https://guestbell.github.io/docs/#/\",\"swEnabled\":true,\"googleTagsManagerId\":\"GTM-TW8R2HX\",\"googleTagsManagerAuth\":\"1IPiUmmWoI1j3KVAKzELcg\",\"googleTagsManagerPreview\":\"env-2\",\"buildOn\":\"Wed, 02 Sep 2020 21:16:44 GMT\",\"buildFor\":\"production\"}"]);
+		var a = typeof exports === 'object' ? factory(require("{\"marketingUrl\":\"https://guestbell.com\",\"buildOn\":\"Wed, 02 Sep 2020 21:38:11 GMT\",\"buildFor\":\"production\"}")) : factory(root["{\"marketingUrl\":\"https://guestbell.com\",\"buildOn\":\"Wed, 02 Sep 2020 21:38:11 GMT\",\"buildFor\":\"production\"}"]);
 		for(var i in a) (typeof exports === 'object' ? exports : root)[i] = a[i];
 	}
 })(global, function(__WEBPACK_EXTERNAL_MODULE__21__) {
@@ -692,9 +692,9 @@ var Dynamic_Dynamic = function Dynamic() {
 // EXTERNAL MODULE: C:/Coding/GuestBell/delete-me/src/app.css
 var app = __webpack_require__(41);
 
-// EXTERNAL MODULE: external "{\"marketingUrl\":\"https://guestbell.com\",\"guestAndroidUrl\":\"com.guestbell.guest\",\"dashboardUrl\":\"https://dashboard.guestbell.com\",\"guestWebUrl\":\"https://guest.guestbell.com\",\"demoHotelSlug\":\"demo-hotel\",\"version\":\"VERSION_TOKEN\",\"directChatLink\":\"https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default\",\"apiUrl\":\"https://api.guestbell.com/\",\"apiUrlPlanMeta\":\"plan/meta\",\"apiUrlIntegrationMeta\":\"integration/meta\",\"docsUrl\":\"https://guestbell.github.io/docs/#/\",\"swEnabled\":true,\"googleTagsManagerId\":\"GTM-TW8R2HX\",\"googleTagsManagerAuth\":\"1IPiUmmWoI1j3KVAKzELcg\",\"googleTagsManagerPreview\":\"env-2\",\"buildOn\":\"Wed, 02 Sep 2020 21:16:44 GMT\",\"buildFor\":\"production\"}"
-var _swEnabled_true_googleTagsManagerId_GTM_TW8R2HX_googleTagsManagerAuth_1IPiUmmWoI1j3KVAKzELcg_googleTagsManagerPreview_env_2_buildOn_Wed_02_Sep_2020_21_16_44_GMT_buildFor_production_ = __webpack_require__(21);
-var _swEnabled_true_googleTagsManagerId_GTM_TW8R2HX_googleTagsManagerAuth_1IPiUmmWoI1j3KVAKzELcg_googleTagsManagerPreview_env_2_buildOn_Wed_02_Sep_2020_21_16_44_GMT_buildFor_production_default = /*#__PURE__*/__webpack_require__.n(_swEnabled_true_googleTagsManagerId_GTM_TW8R2HX_googleTagsManagerAuth_1IPiUmmWoI1j3KVAKzELcg_googleTagsManagerPreview_env_2_buildOn_Wed_02_Sep_2020_21_16_44_GMT_buildFor_production_);
+// EXTERNAL MODULE: external "{\"marketingUrl\":\"https://guestbell.com\",\"buildOn\":\"Wed, 02 Sep 2020 21:38:11 GMT\",\"buildFor\":\"production\"}"
+var guestbell_com_buildOn_Wed_02_Sep_2020_21_38_11_GMT_buildFor_production_ = __webpack_require__(21);
+var guestbell_com_buildOn_Wed_02_Sep_2020_21_38_11_GMT_buildFor_production_default = /*#__PURE__*/__webpack_require__.n(guestbell_com_buildOn_Wed_02_Sep_2020_21_38_11_GMT_buildFor_production_);
 
 // CONCATENATED MODULE: C:/Coding/GuestBell/delete-me/src/App.tsx
 
@@ -709,7 +709,7 @@ Object(external_react_static_["addPrefetchExcludes"])(["dynamic"]);
 
 function App() {
   return /*#__PURE__*/external_react_default.a.createElement(external_react_static_["Root"], null, /*#__PURE__*/external_react_default.a.createElement("nav", null, /*#__PURE__*/external_react_default.a.createElement("a", {
-    href: _swEnabled_true_googleTagsManagerId_GTM_TW8R2HX_googleTagsManagerAuth_1IPiUmmWoI1j3KVAKzELcg_googleTagsManagerPreview_env_2_buildOn_Wed_02_Sep_2020_21_16_44_GMT_buildFor_production_default.a.marketingUrl
+    href: guestbell_com_buildOn_Wed_02_Sep_2020_21_38_11_GMT_buildFor_production_default.a.marketingUrl
   }, "Test"), /*#__PURE__*/external_react_default.a.createElement(router_["Link"], {
     to: "/"
   }, "Home"), /*#__PURE__*/external_react_default.a.createElement(router_["Link"], {
