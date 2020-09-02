@@ -1,0 +1,66 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": null,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx",
+    ".ts",
+    ".tsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "C:\\Coding\\GuestBell\\delete-me\\src\\index.tsx",
+  "plugins": [
+    "react-static-plugin-typescript",
+    [
+      "C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      {
+        "location": "C:\\Coding\\GuestBell\\delete-me\\src\\pages"
+      }
+    ],
+    "C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
+    "C:\\Coding\\GuestBell\\delete-me\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
+    "C:\\Coding\\GuestBell\\delete-me\\plugins\\config\\node.api.js",
+    "C:\\Coding\\GuestBell\\delete-me"
+  ],
+  "paths": {
+    "ROOT": "C:\\Coding\\GuestBell\\delete-me",
+    "SRC": "C:\\Coding\\GuestBell\\delete-me\\src",
+    "DIST": "C:\\Coding\\GuestBell\\delete-me\\dist",
+    "ASSETS": "C:\\Coding\\GuestBell\\delete-me\\dist",
+    "PLUGINS": "C:\\Coding\\GuestBell\\delete-me\\plugins",
+    "TEMP": "C:\\Coding\\GuestBell\\delete-me\\tmp",
+    "ARTIFACTS": "C:\\Coding\\GuestBell\\delete-me\\artifacts",
+    "PUBLIC": "C:\\Coding\\GuestBell\\delete-me\\public",
+    "NODE_MODULES": "C:\\Coding\\GuestBell\\delete-me\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Coding\\GuestBell\\delete-me\\node_modules",
+    "PACKAGE": "C:\\Coding\\GuestBell\\delete-me\\package.json",
+    "HTML_TEMPLATE": "C:\\Coding\\GuestBell\\delete-me\\dist\\index.html",
+    "STATIC_DATA": "C:\\Coding\\GuestBell\\delete-me\\dist\\staticData"
+  },
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}

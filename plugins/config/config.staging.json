@@ -1,0 +1,8 @@
+{
+  "marketingUrl": "https://stg.guestbell.com",
+  "dashboardUrl": "https://stg-dashboard.guestbell.com",
+  "guestWebUrl": "https://stg-guest.guestbell.com",
+  "apiUrl": "https://stg-api.guestbell.com/",
+  "googleTagsManagerAuth": "3EAEynwS3JKjTm3chhGtnw",
+  "googleTagsManagerPreview": "env-12"
+}

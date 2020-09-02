@@ -1,0 +1,15 @@
+{
+  "marketingUrl": "http://localhost:54766",
+  "guestAndroidUrl": "com.guestbell.guest",
+  "dashboardUrl": "http://localhost:54762",
+  "guestWebUrl": "http://localhost:54765",
+  "demoHotelSlug": "demo-hotel",
+  "version": "VERSION_TOKEN",
+  "directChatLink": "https://tawk.to/chat/5a2d7b9bd0795768aaf8e6ff/default",
+  "apiUrl": "https://localhost:63139/",
+  "apiUrlPlanMeta": "plan/meta",
+  "apiUrlIntegrationMeta": "integration/meta",
+  "docsUrl": "https://guestbell.github.io/docs/#/",
+  "swEnabled": true,
+  "googleTagsManagerId": "GTM-TW8R2HX"
+}
